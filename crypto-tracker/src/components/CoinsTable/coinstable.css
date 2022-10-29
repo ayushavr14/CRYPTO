@@ -1,0 +1,10 @@
+.row {
+    background-color: "#16171a";
+    cursor: pointer;
+    font-family: "Montserrat";
+
+}
+
+.pagination{
+    color: gold;
+}
